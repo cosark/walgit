@@ -180,6 +180,10 @@ web/              React SPA (Vite) + sdk/repos.ts, built into the binary; the wi
 docs/             PACKFILE_URI_DESIGN (target), PACKFILE_MIGRATION, ROUNDTRIPS (the cost model), POLICY, LFS, INTEGRITY, EVENTS, CONTRACT
 ```
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/walgit/)
+
 ## Invariants worth memorising
 
 * The manifest CAS is the only commit point; everything before it is invisible, everything after it is
